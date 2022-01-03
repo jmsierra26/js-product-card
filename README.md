@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import { ProductButtons, ProductCard, ProductImage, ProductTitle } from 'js-product-card';
+import { ProductButtons, ProductCard, ProductImage, ProductTitle } from 'ms-product-card';
 ```
 
 ```

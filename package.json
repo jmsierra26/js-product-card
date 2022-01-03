@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc",
+  "version": "1.0.1-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,14 +40,14 @@
   },
   "name": "ms-product-card",
   "author": "Jesús Sierra",
-  "module": "dist/js-product-card.esm.js",
+  "module": "dist/ms-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/js-product-card.cjs.production.min.js",
+      "path": "dist/ms-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/js-product-card.esm.js",
+      "path": "dist/ms-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
